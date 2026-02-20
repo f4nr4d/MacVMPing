@@ -1,6 +1,7 @@
 # MacVMPing
 
 **MacVMPing** is a macOS application for monitoring multiple hosts in real time using ICMP ping — inspired by [VMPing](https://github.com/R-Smith/vmping) on Windows.
+## Download 👉 [Télécharger la dernière version](https://github.com/f4nr4d/MacVMPing/releases/latest)
 
 ![MacVMPing Screenshot](screenshot.png)
 
