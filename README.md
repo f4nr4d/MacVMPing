@@ -49,6 +49,11 @@
 5. Adjust the number of columns using the **Colonnes** control
 
 ---
+## Roadmap
+
+- [ ] Save and load host lists for future use 
+
+---
 
 ## Inspired by
 
