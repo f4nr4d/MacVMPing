@@ -54,6 +54,7 @@
 - [ ] Save and load host lists for future use
 - [ ] Automatic window resizing
 - [ ] Modify an existing host
+- [ ] import hosts list by .csv
 
 ---
 
