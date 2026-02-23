@@ -49,6 +49,21 @@
 5. Adjust the number of columns using the **Colonnes** control
 
 ---
+
+## Releases
+
+👉 [All releases](https://github.com/f4nr4d/MacVMPing/releases)
+
+### v1.0 — Initial Release
+- Monitor multiple hosts simultaneously
+- Visual status indicators (green / red)
+- Real-time response time in ms
+- Live statistics (OK, KO, packet loss)
+- Response log per host with timestamps
+- Add/remove hosts on the fly
+
+---
+
 ## Roadmap
 
 - [ ] Save and load host lists for future use
