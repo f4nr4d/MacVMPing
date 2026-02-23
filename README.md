@@ -51,7 +51,9 @@
 ---
 ## Roadmap
 
-- [ ] Save and load host lists for future use 
+- [ ] Save and load host lists for future use
+- [ ] Automatic window resizing
+- [ ] Modify an existing host
 
 ---
 
