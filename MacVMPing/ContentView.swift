@@ -59,7 +59,7 @@ struct ContentView: View {
                 }
             }
         }
-        .frame(minWidth: 600, minHeight: 400)
+        .frame(minWidth: 400, minHeight: 300)
         // Ajuste automatiquement les colonnes selon la largeur
         .background(GeometryReader { geo in
             Color.clear.onChange(of: geo.size.width) { _, width in
@@ -89,7 +89,7 @@ struct ContentView: View {
 
             // Colonnes manuelles
             HStack(spacing: 4) {
-                Text("Colonnes :").font(.caption).foregroundColor(.secondary)
+                Text("Colonnes :").font(.caption).foregroundColor(.secondary).fixedSize()
                 Stepper("\(columnCount)", value: $columnCount, in: 1...6).frame(width: 90)
             }
 

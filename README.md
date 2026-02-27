@@ -10,6 +10,10 @@
 ---
 
 ## 📸 Aperçu
+![MacVMPing Screenshot](screenshot.png)
+```
+
+---
 
 Panneaux colorés en temps réel, journal par hôte, notifications système et gestion de listes — tout ce qu'il faut pour surveiller votre réseau d'un coup d'œil.
 
